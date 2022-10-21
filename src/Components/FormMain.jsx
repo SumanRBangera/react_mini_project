@@ -59,7 +59,7 @@ const initialValues = { username: "", email: "", password: "" , message: ""};
    
       <input type="text" class="form-control" id="exampleFormControlInput1" 
       name="username"
-      placeholder="NAME"
+      placeholder="NAME:"
       value={formValues.username}
       onChange={handleChange}
     />
@@ -70,7 +70,7 @@ const initialValues = { username: "", email: "", password: "" , message: ""};
     class="form-control" id="exampleFormControlInput1" 
               type="text"
               name="email"
-              placeholder="EMAIL"
+              placeholder="EMAIL:"
               value={formValues.email}
               onChange={handleChange}
             />
@@ -80,7 +80,7 @@ const initialValues = { username: "", email: "", password: "" , message: ""};
              class="form-control" id="exampleFormControlInput1" 
               type="phone"
               name="phone"
-              placeholder="PHONE"
+              placeholder="PHONE:"
               value={formValues.phone}
               onChange={handleChange}
             />
