@@ -1,0 +1,13 @@
+.Col{
+    float: left;
+        margin-right: 1.5em;
+        width: 47%;
+        height: 44%;
+        padding: 4px;
+}
+img{
+    height: 450px;
+    width: 100%;
+}
+
+  

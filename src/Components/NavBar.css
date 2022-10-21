@@ -1,0 +1,12 @@
+.nav-link{
+    color: white;
+    font-size: small;
+    margin-left: 1.2em;
+}
+.nav-link:hover{
+    color: rgb(244, 114, 21);
+}
+.fa-brands{
+    font-size: 1.5em;
+    color:grey
+}
