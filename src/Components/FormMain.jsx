@@ -51,6 +51,8 @@ const initialValues = { username: "", email: "", password: "" , message: ""};
 
   return (
     <div className="back">
+          <br></br>
+          <br></br>
           <h1>QUICK CONTACT</h1>
         <br></br>
       <form onSubmit={handleSubmit}>
