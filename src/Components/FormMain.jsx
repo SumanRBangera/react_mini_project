@@ -87,7 +87,7 @@ const initialValues = { username: "", email: "", password: "" , message: ""};
             <p>{formErrors.phone}</p>
             
       
-            <textarea type="text"name="message" class="form-control" id="exampleFormControlTextarea1"  placeholder="Message:"rows="3"
+            <textarea type="text"name="message" class="form-control" id="exampleFormControlTextarea1"  placeholder="MESSAGE:"rows="3"
             value={formValues.message}
             onChange={handleChange}
             />
