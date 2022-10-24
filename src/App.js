@@ -1,17 +1,24 @@
 
 import './App.css';
 import NavrBar from './Components/NavBar';
-import CarouselImage from './Components/Carouselimage';
+import Carouselimage from './Components/Carouselimage';
 import Cards from './Components/Cards';
 import FormMain from './Components/FormMain';
-
+import Footer from './Components/Footer';
+import Info from './Components/Info';
+import InformationCard from './Components/InformationCard';
 function App() {
+  
   return (
     <div className="App">
+   
       <NavrBar/>
-      <CarouselImage/>
+      <Carouselimage/>
       <Cards/>
+      <InformationCard/>
+      <Info/>
       <FormMain/>
+      <Footer/>
     </div>
   );
 }

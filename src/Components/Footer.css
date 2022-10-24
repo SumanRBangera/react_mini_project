@@ -1,0 +1,26 @@
+.contact{
+    background-color: #5e696d;
+    padding: 97px;
+    padding-left: 100px;
+    height: 250px;
+  
+    
+}
+.pp{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 55px;
+    margin-top: -70px;
+    color: rgb(252, 247, 247);
+    font-weight: bold;
+    font-family: serif;
+}
+img{
+    height: 80px;
+}
+#img{
+  
+    height:400px;
+}

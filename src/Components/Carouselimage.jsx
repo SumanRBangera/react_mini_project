@@ -4,8 +4,8 @@ import './CarouselImage.css';
 const  CarouselImage = () => {
     return ( 
    
-  
-        <img src={CS} /> 
+   <img id="img" src={CS} /> 
+       
         
         
     );

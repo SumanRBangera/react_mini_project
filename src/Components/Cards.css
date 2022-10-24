@@ -1,0 +1,28 @@
+.card-text{
+    font-family: 'Archivo Narrow', sans-serif;
+    color: #949494;
+    font-size: 14px;
+    text-align: center;
+}
+.card{
+    height: 300px;
+    border: none;
+}
+h5{
+    font-family: 'Archivo Narrow', sans-serif;
+    color: #404b52;
+    font-weight: bold;
+    
+}
+.card-img-top{
+    width: 150px;
+    margin-left: 4em;
+}
+.btn{
+   
+    border-radius: 1px;
+    border: 1px solid rgb(56, 55, 55);
+   
+    color: rgb(46, 45, 45);
+    padding: 4px;
+  }
